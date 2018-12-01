@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="jehealneil.sih.com.week14">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".dimsumTreats" />
+        <activity android:name=".jollibee" />
+        <activity android:name=".Lacson" />
+        <activity android:name=".bigguys" />
+        <activity android:name=".mcdo" />
+        <activity android:name=".ilars" />
+        <activity android:name=".ichill" />
+        <activity android:name=".jackos" />
+        <activity android:name=".octane" />
+        <activity android:name=".xtreme" />
+        <activity android:name=".espanya" />
+        <activity android:name=".kfcespanya" />
+        <activity android:name=".mcdoespanya" />
+        <activity android:name=".bentesilogespanya" />
+        <activity android:name=".ycespanya" />
+        <activity android:name=".amorbakeryespanyaa" />
+        <activity android:name=".amorbakeryespanya" />
+        <activity android:name=".amoyamieespanya" />
+        <activity android:name=".samgespanya" />
+        <activity android:name=".paresespanya" />
+    </application>
+
+</manifest>

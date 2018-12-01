@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Week14</string>
+    <string-array name="names">
+        <item>DAPITAN</item>
+        <item>LACSON</item>
+        <item>ESPANYA</item>
+        <item>P.NOVAL</item>
+    </string-array>
+</resources>
